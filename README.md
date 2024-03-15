@@ -12,5 +12,5 @@ Nota: este repositorio se estara actualizando continuamente por lo que se recomi
 - **II Programación en Python - variables**: Uso de variables en Python.
 -  **III Programación en Python - tipos de dato**: Tipos de dato y conversiones entre tipos de datos en Python.
 - **IV Listas en Python**: Crear y leer listas. Crear y leer listas de listas.
-- **Ejercicio 1: tabla y graficos**: Generar tabla de distribucion de frecuenias y graficos. 
-
+- **V Bucle for en python**: Utilizar el bucle `for` para trabajar con conjuntos de datos grandes. VER [Encontrar archivos en Kaggle.](https://www.loom.com/share/d3f64114c7cc40d8a4bc29aee22963c2?sid=4b185c19-ae50-4db8-ab14-1ca867edc8bf)
+- **Ejercicio 1: tabla y graficos**: Generar tabla de distribucion de frecuenias y graficos.
