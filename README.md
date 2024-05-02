@@ -20,18 +20,18 @@ Nota: este repositorio se estara actualizando continuamente por lo que se recomi
       background-color: #FBD66F;
       border: 2px solid #F8BD43;
       padding: 1px 5px;
-      border-radius: 20px;">New</span> **Ejercicios de la distribución Binomial:** Aplicación de la distribución Binomial.
+      border-radius: 20px;">New</span> **[Ejercicios de la distribución Binomial](https://github.com/JavierProjects/pe-notebooks/blob/master/Ejercicios%20Binomial.ipynb):** Aplicación de la distribución Binomial.
 - <span 
       style=      
       "color: #525A5B;
       background-color: #FBD66F;
       border: 2px solid #F8BD43;
       padding: 1px 5px;
-      border-radius: 20px;">New</span> **Ejercicios de la distribución de Poisson:** Aplicación de la distribución de Poisson.
+      border-radius: 20px;">New</span> **[Ejercicios de la distribución de Poisson](https://github.com/JavierProjects/pe-notebooks/blob/master/Ejercicios%20de%20Poisson.ipynb):** Aplicación de la distribución de Poisson.
 - <span 
       style=      
       "color: #525A5B;
       background-color: #FBD66F;
       border: 2px solid #F8BD43;
       padding: 1px 5px;
-      border-radius: 20px;">New</span> **Ejercicios de la distribución Hipergeometrica:** Aplicación de la distribución Hipergeometrica.
+      border-radius: 20px;">New</span> **[Ejercicios de la distribución Hipergeometrica](https://github.com/JavierProjects/pe-notebooks/blob/master/Ejercicios%20Hipergeometrica.ipynb):** Aplicación de la distribución Hipergeometrica.
